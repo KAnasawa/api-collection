@@ -26,5 +26,6 @@ fun main() {
     values.sort()
     for (valor in values) {
         println(valor)
+
     }
 }
